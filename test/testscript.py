@@ -192,14 +192,14 @@ for tl1, tl2, tl3 in zip(typeList1, typeList2, typeList3):
 
       if(jsonObj1[0]["type"] == "delete"):
           if jsonObj1[0]["howMany"] == jsonObj2[0]["howMany"] == jsonObj3[0]["howMany"]:
-            difference = 0
+            difference += 0
           else: 
             difference += 1 
 
       consistencyCount.append(difference)
 
   elif len(jsonObj1) == 0 and len(jsonObj2) == 0 and len(jsonObj3) == 0: 
-      difference = 0
+      difference += 0
       consistencyCount.append(difference)        
 
 print("We add all inconsistency:")
@@ -207,5 +207,5 @@ print("We add all inconsistency:")
 print("Sum is: "+str(sum(consistencyCount)))
 
 if sum(consistencyCount) == 0:
-  print("As the sum of inconsistencies is 0, it shows that the data is consistent on all servers!")
+  print("The data is eventually consistent, it shows that the data is consistent on all servers!")
 
