@@ -26,3 +26,9 @@ Test Script (testScript.py) -</br>
 2. Copy the logs generated (output3000.txt) for each server of 3 servers into test folder(e.g. currently test folder contains server logs from 3 servers)
 3. Run the testScript.py - python3 testScript.py.
 4. The script uses logs generated (e.g. output3000.txt, output3001.txt, output3008.txt) from the application to give fair estimate of different metrics.
+
+What do we evalute by running test script.
+a. Eventual consistency
+b. Timestamps and originating server requests
+c. Latency for each server
+d. Average latencies
