@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Collaborative Editor</title>
+    <script src="https://cdn.socket.io/3.1.3/socket.io.min.js"
+        integrity="sha384-cPwlPLvBTa3sKAgddT6krw0cJat7egBga3DJepJyrLl4Q9/5WLra3rrnMcyTyOnh"
+        crossorigin="anonymous"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+
+    <script src="https://cdn.ckeditor.com/4.16.1/standard/ckeditor.js"></script>
+    <script src="client/writeController.js"></script>
+    <script src="client/calcDiff.js"></script>
+</head>
+
+<body style="display: flex; flex-direction: column; height: 100vh;">
+    <div style="height: 40px; background-color: #edf3fc; display: flex;">
+        <label style="font-size: 26px; color: red; margin-left: 10px;"><b>R</b></label><label style="font-size: 26px; color: black;"><b>Collab</b></label>
+    </div>
+
+    <div id="registrationFormDiv" style="
+        margin: auto;
+        width: 60%;
+        border: 3px solid #ededed;
+        padding: 10px;
+        margin-top: 10%;
+      ">
+        <div>
+            <input type="text" class="form-control" id="handle" placeholder="Enter username.." /><br>
+            <button class="btn btn-outline-success" style="margin-left: 40%;" type="button" id="register">Register</button>
+        </div>
+    </div>
+    <div id="editor-block" style="display: none;">
+        <div class="form-group" style="margin-top: 2%; height: 60%;">
+            <textarea id="textarea" class="form-control" rows="8"></textarea>
+            <script>
+                CKEDITOR.replace('textarea', {
+                    format_tags: 'p;h1;h2;pre;div',
+                    removeButtons: 'Underline,Strike,Subscript,Superscript,Anchor,Styles,Specialchar,PasteFromWord,Image,Table,SpecialCharacters,Source,Cut,PasteText,About,RemoveFormat,SpecialChar,Copy,Paste,Redo,Undo,NumberedList,BulletedList,Outdent,Indent,Blockquote,Link,Unlink,HorizontalRule,Maximize,Format,Scayt'
+            });
+            </script>
+        </div>
+    </div>
+    
+    <footer><p style="margin-left: 43%;">&copy;RCollab 2023</p></footer>
+
+</body>
+
+</html>
