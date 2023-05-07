@@ -27,8 +27,8 @@ Test Script (testScript.py) -</br>
 3. Run the testScript.py - python3 testScript.py.
 4. The script uses logs generated (e.g. output3000.txt, output3001.txt, output3008.txt) from the application to give fair estimate of different metrics.
 
-What do we evalute by running test script.
-a. Eventual consistency
-b. Timestamps and originating server requests
-c. Latency for each server
-d. Average latencies
+What do we evalute by running test script.</br>
+a. Eventual consistency</br>
+b. Timestamps and originating server requests</br>
+c. Latency for each server</br>
+d. Average latencies</br>
