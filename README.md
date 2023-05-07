@@ -21,5 +21,5 @@ Alternatively, you can test this application on same machine using different por
 
 TESTS(testScript.py) -</br>
 Test folder contains test script.
-Run the testScript.py - python3 testScript.py. The script uses generated logs(output3000.txt) to give fair estimate of different metrics
+Run the testScript.py - python3 testScript.py.</br> The script uses generated logs(output3000.txt) to give fair estimate of different metrics
    
