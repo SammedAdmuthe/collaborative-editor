@@ -15,9 +15,7 @@ Alternatively, you can test this application on same machine using different por
 1. Redis running at port 6379.
 2. Configure HAProxy.
 3. Run the Server at respective port-
-   a. Server 1 : 3000
-   b. Server 2 : 3001
-   c. Server 3 : 3003
+   e.g. Server 1(3000), Server 2(3001), Server 3(3003), .. so on.
  4. Hit -  http://localhost:80
 
    
