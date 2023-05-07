@@ -18,4 +18,8 @@ Alternatively, you can test this application on same machine using different por
    e.g. Server 1(3000), Server 2(3001), Server 3(3003), .. so on.
  4. Hit -  http://localhost:80
 
+
+TESTS(testScript.py) -
+Test folder contains test script.
+Run the testScript.py - python3 testScript.py. The script uses generated logs(output3000.txt) to give fair estimate of different metrics
    
