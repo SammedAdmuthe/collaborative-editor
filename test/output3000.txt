@@ -1,0 +1,46 @@
+[{"type":"insert","index":0,"values":["<","p",">","L","e","t","s"," ","b","e","g","i","n"," ","t","e","s","t","i","n","g","<","/","p",">","\n"]}]|| Origin Server : -1 || Time stamp :  1683423252755
+[{"type":"insert","index":21,"values":[" ","R","c","o","l","l","a","b"]}]|| Origin Server : -1 || Time stamp :  1683423255809
+[{"type":"delete","index":0,"howMany":34}]|| Origin Server : -1 || Time stamp :  1683423261608
+[{"type":"insert","index":0,"values":["<","p",">","W","h","a","t","<","/","p",">","\n"]}]|| Origin Server : -1 || Time stamp :  1683423421410
+[{"type":"insert","index":7,"values":["s"," ","u","p"," ","g","u","y","s","!"]}]|| Origin Server : -1 || Time stamp :  1683423425654
+[{"type":"insert","index":22,"values":["\n","<","p",">","H","e","y"," ","h","o","w"," ","y","o","u"," ","d","o","i","n","g","?","?","<","/","p",">","\n"]}]|| Origin Server : -1 || Time stamp :  1683423436944
+[{"type":"insert","index":50,"values":["\n","<","p",">","I","<","/","p",">","\n"]}] || Origin Server : 1 || Time stamp :  1683423441518
+[{"type":"insert","index":55,"values":[" ","a","m"]}] || Origin Server : 1 || Time stamp :  1683423443132
+[{"type":"insert","index":58,"values":[" ","d","o","i","n","g"]}] || Origin Server : 1 || Time stamp :  1683423445514
+[{"type":"insert","index":64,"values":[" ","g","o","o"]}] || Origin Server : 1 || Time stamp :  1683423447107
+[{"type":"insert","index":68,"values":["d"]}] || Origin Server : 1 || Time stamp :  1683423448421
+[{"type":"insert","index":69,"values":["."," ","H","o","w"," ","a","r","e"," ","y","o","u"]}] || Origin Server : 1 || Time stamp :  1683423453446
+[{"type":"insert","index":82,"values":["?"]}] || Origin Server : 1 || Time stamp :  1683423457061
+[{"type":"insert","index":88,"values":["\n","<","p",">","I"," ","a","m"," ","g","o","o","d","<","/","p",">","\n"]}]|| Origin Server : -1 || Time stamp :  1683423465302
+[]|| Origin Server : -1 || Time stamp :  1683423466752
+[{"type":"insert","index":101,"values":[" ","t","h","a","n","k","s","!"]}]|| Origin Server : -1 || Time stamp :  1683423470448
+[{"type":"insert","index":114,"values":["\n","<","p",">","&","n","b","s","p",";","<","/","p",">","\n"]}]|| Origin Server : -1 || Time stamp :  1683423489153
+[{"type":"insert","index":118,"values":["W","h","a","t"]}]|| Origin Server : -1 || Time stamp :  1683423492807
+[{"type":"insert","index":122,"values":[" ","y","o","u","r"," ","p","r","o","j","e","c","t"]}]|| Origin Server : -1 || Time stamp :  1683423514355
+[{"type":"insert","index":135,"values":[" "]},{"type":"delete","index":136,"howMany":3},{"type":"insert","index":137,"values":["t","a","t","u","s"]},{"type":"delete","index":142,"howMany":2}]|| Origin Server : -1 || Time stamp :  1683423521170
+[{"type":"insert","index":122,"values":["s"]},{"type":"insert","index":129,"values":["D","I","S"," "]},{"type":"insert","index":141,"values":["S"]},{"type":"delete","index":142,"howMany":1},{"type":"insert","index":147,"values":["?"]}]|| Origin Server : -1 || Time stamp :  1683423536523
+[{"type":"insert","index":153,"values":["\n","<","p",">","I"," ","a","m"," ","w","o","r","k","i","n","g"," ","o","n"," ","m","e","t","r","i","c","<","/","p",">","\n"]}]|| Origin Server : -1 || Time stamp :  1683423548987
+[{"type":"insert","index":179,"values":["s"," ","p","a","r","t","."]}]|| Origin Server : -1 || Time stamp :  1683423552387
+[]|| Origin Server : -1 || Time stamp :  1683423555975
+[{"type":"insert","index":191,"values":["\n","<","p",">","&","n","b","s","p",";","<","/","p",">","\n"]}]|| Origin Server : -1 || Time stamp :  1683423557408
+[{"type":"insert","index":195,"values":["I"]},{"type":"delete","index":196,"howMany":6}]|| Origin Server : -1 || Time stamp :  1683423558686
+[{"type":"insert","index":196,"values":[" ","h","a","v","e"," ","a","l","m","o","s","t"," ","c","o","m","p","l","e","t","e","d"," ","m","y"," ","D","I","S"," ","p","r","o","j","e","c","t","."]}]|| Origin Server : -1 || Time stamp :  1683423569767
+[{"type":"insert","index":234,"values":[" ","W","h","a","t"," ","h","a","v","e"," ","y","o","u"," ","i","m","p","l","e","m","e","n","t","e","d","?"]}] || Origin Server : 1 || Time stamp :  1683423581848
+[{"type":"insert","index":261,"values":[" ","W","e"," ","h","a","v","e"," ","i","m","p","l","e","m","e","n","t","e","d"," ","C","o","l","l","a","b","o","r","a","t","i","v","e"," ","E","d","i","t","o","r"," ","a","n","d","&","n","b","s","p",";"]}]|| Origin Server : -1 || Time stamp :  1683423600753
+[{"type":"insert","index":306,"values":[" ","t","h","a","t","s"," ","a"," ","s","c","a","b","l","e"]}]|| Origin Server : -1 || Time stamp :  1683423606457
+[{"type":"delete","index":320,"howMany":7}]|| Origin Server : -1 || Time stamp :  1683423607672
+[{"type":"insert","index":318,"values":["l","a","b","l","e"," ","o","n","e",".","&","n","b","s","p",";"]},{"type":"delete","index":334,"howMany":2}]|| Origin Server : -1 || Time stamp :  1683423612541
+[{"type":"insert","index":328,"values":[" ","I","t"," ","r","e","a","l","y"," ","h","e","l","p"]},{"type":"delete","index":342,"howMany":6}]|| Origin Server : -1 || Time stamp :  1683423618923
+[{"type":"insert","index":342,"values":["s"," ","i","n"," ","r","e","a","l"]}]|| Origin Server : -1 || Time stamp :  1683423622693
+[{"type":"insert","index":351,"values":["-","t","i","m","e"," ","c","o","l","l"]}]|| Origin Server : -1 || Time stamp :  1683423625523
+[{"type":"insert","index":361,"values":["a","o"]}]|| Origin Server : -1 || Time stamp :  1683423627404
+[{"type":"insert","index":362,"values":["b","o","r","a","t","i","o","n"]},{"type":"delete","index":370,"howMany":1}]|| Origin Server : -1 || Time stamp :  1683423630563
+[{"type":"insert","index":370,"values":["."," ","T","h","a","t","s"," ","r","e","a","l","l","y"," ","g","o","o","d"]}] || Origin Server : 1 || Time stamp :  1683423640732
+[{"type":"insert","index":389,"values":[" ","p","r","o","j","e","c","t","!"]}] || Origin Server : 1 || Time stamp :  1683423643804
+[{"type":"insert","index":398,"values":[" ","D","I","S"," ","w","a","s"," ","a"," ","g","r","e","a","t"," ","c","o","u","r","s","e"," ","t","o"," ","b","e"," ","h","o","n","e","s","t","."," ","I"," ","h","a","v","e"," ","l","e","a","r","n","t"," ","a"]}] || Origin Server : 1 || Time stamp :  1683423678079
+[{"type":"insert","index":451,"values":[" ","l","o","t","."]}] || Origin Server : 1 || Time stamp :  1683423682003
+[{"type":"insert","index":456,"values":[" ","W","h","a","t","s"," ","y","o","u","r"," ","t","a","k","e"," ","o","n"," ","t","h","i","s","?"]}] || Origin Server : 1 || Time stamp :  1683423690875
+[{"type":"insert","index":486,"values":["\n","<","p",">","I","t"," ","w","a","s"," ","i","n","d","e","e","d"," ","a"," ","g","o","o","d"," ","c","o","u","r","s","e","."," ","T","h","i","s"," ","w","i","l","l"," ","d","e","f","i","n","<","/","p",">","\n"]}]|| Origin Server : -1 || Time stamp :  1683423713231
+[{"type":"insert","index":534,"values":["e","t","l","y"," ","h","e","l","p"," ","m","e"," ","i","n"," ","g","e","t","t","i","n","g","&","n","b","s","p",";"]}]|| Origin Server : -1 || Time stamp :  1683423719658
+[{"type":"insert","index":557,"values":[" ","f","u","l","l"]},{"type":"delete","index":562,"howMany":6}]|| Origin Server : -1 || Time stamp :  1683423723353
+[{"type":"insert","index":562,"values":["-","t","i","m","e"]}]|| Origin Server : -1 || Time stamp :  1683423725202
